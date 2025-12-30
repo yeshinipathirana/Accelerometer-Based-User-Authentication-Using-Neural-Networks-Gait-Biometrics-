@@ -1,0 +1,9 @@
+Metric,Pre-Optimization,Post-Optimization,Improvement
+Hidden Layer Size,100 neurons,200 neurons,+100 neurons
+Learning Rate,Default (Adaptive),0.001,Optimized
+Test Accuracy (%),99.31,99.50,+0.19%
+Misclassifications,8,6,-2 errors
+Error Rate (%),0.69,0.52,-0.17%
+FAR - Macro Avg (%),0.08,0.08,0.00%
+FRR - Macro Avg (%),0.69,0.52,-0.17%
+EER - Macro Avg (%),0.39,0.30,-0.09%

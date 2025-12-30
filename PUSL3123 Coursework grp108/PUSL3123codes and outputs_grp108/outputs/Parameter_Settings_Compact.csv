@@ -1,0 +1,16 @@
+Parameter,Value
+Sampling Rate,31 Hz
+Window Duration,2.5 seconds
+Window Size,78 samples
+Step Size,39 samples (50% overlap)
+Features per Window,90
+Train/Test Split,"80:20 (4,624:1,156)"
+Input Neurons,90
+Hidden Neurons,100
+Output Neurons,10
+Training Algorithm,trainlm (Levenberg-Marquardt)
+Performance Function,mse (Mean Squared Error)
+Training Epochs,100
+Random Seed,42
+Hidden Sizes Tested,"50, 100, 150, 200"
+Learning Rates Tested,"0.001, 0.01, 0.1"

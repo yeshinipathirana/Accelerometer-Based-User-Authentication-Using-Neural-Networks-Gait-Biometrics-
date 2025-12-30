@@ -1,0 +1,4 @@
+Dataset,Samples,Percentage,Features,Users
+Total Dataset,"5,780",100.0%,90,10
+Training Set,"4,624",80.0%,90,10
+Testing Set,"1,156",20.0%,90,10

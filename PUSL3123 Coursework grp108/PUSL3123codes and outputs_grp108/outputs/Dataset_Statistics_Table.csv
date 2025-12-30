@@ -1,0 +1,8 @@
+Metric,Value
+Total CSV files,20
+Total samples,"220,625"
+Unique users,10
+Sessions per user,2 (FD and MD)
+Sampling rate (Hz),31
+Average samples per user,"22,062"
+Average samples per session,"11,031"

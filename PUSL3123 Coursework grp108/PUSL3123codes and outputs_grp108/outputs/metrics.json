@@ -1,0 +1,8 @@
+{
+  "core_metrics": {
+    "accuracy": 0.9930795847750865,
+    "train_samples": 4624,
+    "test_samples": 1156
+  },
+  "far_frr_path": "/Volumes/External_01/ASH/Projects/Mosh/ML New/Coursework_Implementation/outputs/far_frr_metrics.csv"
+}

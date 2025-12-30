@@ -1,0 +1,10 @@
+Category,Number of Features,Feature Types
+Event Flag Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
+Accelerometer X-axis Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
+Accelerometer Y-axis Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
+Accelerometer Z-axis Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
+Gyroscope X-axis Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
+Gyroscope Y-axis Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
+Gyroscope Z-axis Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
+Accelerometer Magnitude Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
+Gyroscope Magnitude Features,10,"energy, iqr, kurtosis, max, mean, median, min, skew, std, crossings"
